@@ -1,0 +1,8 @@
+---
+#配置url的请求参数，https://docs.ucloud.cn/api/summary/overview
+- url_par: 
+  #这里开始设置url的参数
+    Action: DescribeURedisGroup
+    Region: cn-bj2
+    ProjectId: org-26960
+    GroupId: uredis-j0avxh
